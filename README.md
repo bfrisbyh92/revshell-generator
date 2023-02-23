@@ -1,5 +1,5 @@
 <h1 align="center">Reverse Shell Generator</h1>
-<h2 align="center">Brendan Frisby</h2>
+<h2 align="center"><a href="https://github.com/bfrisbyh92">Hack Syndicate</a></h2>
 
 <h3 align="center">Original Author of HTML styled rev-shell-generators are tagged with credit below</h3> 
 
